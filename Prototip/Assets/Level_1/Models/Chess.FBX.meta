@@ -1,0 +1,400 @@
+fileFormatVersion: 2
+guid: 42b9b8282d5a2bb44bdec18db00ee8d0
+timeCreated: 1526582973
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arc01
+    100002: Arc01 1
+    100004: Arc01 2
+    100006: Arc01 3
+    100008: Arc026
+    100010: Arc027
+    100012: Arc028
+    100014: Arc029
+    100016: Arc030
+    100018: Arc031
+    100020: Arc032
+    100022: Arc033
+    100024: Arc034
+    100026: Arc035
+    100028: Arc036
+    100030: Arc037
+    100032: Arc038
+    100034: Arc039
+    100036: Arc04
+    100038: Arc040
+    100040: Arc041
+    100042: Arc042
+    100044: Arc043
+    100046: Arc044
+    100048: Arc045
+    100050: Arc046
+    100052: Arc047
+    100054: Arc048
+    100056: Box005
+    100058: Box006
+    100060: Box007
+    100062: Box01
+    100064: Box01 1
+    100066: Camera002
+    100068: Camera002.Target
+    100070: ChamferBox002
+    100072: ChamferBox01
+    100074: //RootNode
+    100076: Cylinder003
+    100078: Cylinder004
+    100080: Cylinder01
+    100082: Cylinder02
+    100084: GeoSphere002
+    100086: GeoSphere01
+    100088: Line009
+    100090: Line010
+    100092: Line011
+    100094: Line012
+    100096: Line013
+    100098: Line014
+    100100: Line015
+    100102: Line016
+    100104: Line017
+    100106: Line02
+    100108: Omni001
+    100110: Omni009
+    100112: Omni010
+    100114: Omni011
+    100116: Omni012
+    100118: Omni013
+    100120: Omni014
+    100122: Omni015
+    100124: Omni016
+    100126: Sphere006
+    100128: Sphere007
+    100130: Sphere008
+    100132: Sphere02
+    400000: Arc01
+    400002: Arc01 1
+    400004: Arc01 2
+    400006: Arc01 3
+    400008: Arc026
+    400010: Arc027
+    400012: Arc028
+    400014: Arc029
+    400016: Arc030
+    400018: Arc031
+    400020: Arc032
+    400022: Arc033
+    400024: Arc034
+    400026: Arc035
+    400028: Arc036
+    400030: Arc037
+    400032: Arc038
+    400034: Arc039
+    400036: Arc04
+    400038: Arc040
+    400040: Arc041
+    400042: Arc042
+    400044: Arc043
+    400046: Arc044
+    400048: Arc045
+    400050: Arc046
+    400052: Arc047
+    400054: Arc048
+    400056: Box005
+    400058: Box006
+    400060: Box007
+    400062: Box01
+    400064: Box01 1
+    400066: Camera002
+    400068: Camera002.Target
+    400070: ChamferBox002
+    400072: ChamferBox01
+    400074: //RootNode
+    400076: Cylinder003
+    400078: Cylinder004
+    400080: Cylinder01
+    400082: Cylinder02
+    400084: GeoSphere002
+    400086: GeoSphere01
+    400088: Line009
+    400090: Line010
+    400092: Line011
+    400094: Line012
+    400096: Line013
+    400098: Line014
+    400100: Line015
+    400102: Line016
+    400104: Line017
+    400106: Line02
+    400108: Omni001
+    400110: Omni009
+    400112: Omni010
+    400114: Omni011
+    400116: Omni012
+    400118: Omni013
+    400120: Omni014
+    400122: Omni015
+    400124: Omni016
+    400126: Sphere006
+    400128: Sphere007
+    400130: Sphere008
+    400132: Sphere02
+    2000000: Camera002
+    2100000: 10 - Default
+    2100002: Wood Chess
+    2100004: White Chess
+    2300000: Arc01
+    2300002: Arc01 1
+    2300004: Arc01 2
+    2300006: Arc01 3
+    2300008: Arc026
+    2300010: Arc027
+    2300012: Arc028
+    2300014: Arc029
+    2300016: Arc030
+    2300018: Arc031
+    2300020: Arc032
+    2300022: Arc033
+    2300024: Arc034
+    2300026: Arc035
+    2300028: Arc036
+    2300030: Arc037
+    2300032: Arc038
+    2300034: Arc039
+    2300036: Arc04
+    2300038: Arc040
+    2300040: Arc041
+    2300042: Arc042
+    2300044: Arc043
+    2300046: Arc044
+    2300048: Arc045
+    2300050: Arc046
+    2300052: Arc047
+    2300054: Arc048
+    2300056: Box005
+    2300058: Box006
+    2300060: Box007
+    2300062: Box01
+    2300064: Box01 1
+    2300066: ChamferBox002
+    2300068: ChamferBox01
+    2300070: Cylinder003
+    2300072: Cylinder004
+    2300074: Cylinder01
+    2300076: Cylinder02
+    2300078: GeoSphere002
+    2300080: GeoSphere01
+    2300082: Line009
+    2300084: Line010
+    2300086: Line011
+    2300088: Line012
+    2300090: Line013
+    2300092: Line014
+    2300094: Line015
+    2300096: Line016
+    2300098: Line017
+    2300100: Line02
+    2300102: Sphere006
+    2300104: Sphere007
+    2300106: Sphere008
+    2300108: Sphere02
+    3300000: Arc01
+    3300002: Arc01 1
+    3300004: Arc01 2
+    3300006: Arc01 3
+    3300008: Arc026
+    3300010: Arc027
+    3300012: Arc028
+    3300014: Arc029
+    3300016: Arc030
+    3300018: Arc031
+    3300020: Arc032
+    3300022: Arc033
+    3300024: Arc034
+    3300026: Arc035
+    3300028: Arc036
+    3300030: Arc037
+    3300032: Arc038
+    3300034: Arc039
+    3300036: Arc04
+    3300038: Arc040
+    3300040: Arc041
+    3300042: Arc042
+    3300044: Arc043
+    3300046: Arc044
+    3300048: Arc045
+    3300050: Arc046
+    3300052: Arc047
+    3300054: Arc048
+    3300056: Box005
+    3300058: Box006
+    3300060: Box007
+    3300062: Box01
+    3300064: Box01 1
+    3300066: ChamferBox002
+    3300068: ChamferBox01
+    3300070: Cylinder003
+    3300072: Cylinder004
+    3300074: Cylinder01
+    3300076: Cylinder02
+    3300078: GeoSphere002
+    3300080: GeoSphere01
+    3300082: Line009
+    3300084: Line010
+    3300086: Line011
+    3300088: Line012
+    3300090: Line013
+    3300092: Line014
+    3300094: Line015
+    3300096: Line016
+    3300098: Line017
+    3300100: Line02
+    3300102: Sphere006
+    3300104: Sphere007
+    3300106: Sphere008
+    3300108: Sphere02
+    4300000: Box01
+    4300002: Arc01
+    4300004: GeoSphere01
+    4300006: Arc01
+    4300008: Sphere02
+    4300010: Box01
+    4300012: Arc01
+    4300014: Cylinder01
+    4300016: Line02
+    4300018: Arc04
+    4300020: Cylinder02
+    4300022: Arc01
+    4300024: Sphere006
+    4300026: Box005
+    4300028: Arc026
+    4300030: Arc027
+    4300032: ChamferBox01
+    4300034: Arc028
+    4300036: Arc029
+    4300038: Arc030
+    4300040: Arc031
+    4300042: Arc032
+    4300044: Arc033
+    4300046: Arc034
+    4300048: Box006
+    4300050: GeoSphere002
+    4300052: Cylinder003
+    4300054: Sphere007
+    4300056: Box007
+    4300058: Cylinder004
+    4300060: Sphere008
+    4300062: Arc035
+    4300064: Arc036
+    4300066: Arc037
+    4300068: Arc038
+    4300070: Arc039
+    4300072: Arc040
+    4300074: Arc041
+    4300076: ChamferBox002
+    4300078: Arc042
+    4300080: Arc043
+    4300082: Arc044
+    4300084: Arc045
+    4300086: Arc046
+    4300088: Arc047
+    4300090: Arc048
+    4300092: Line009
+    4300094: Line010
+    4300096: Line011
+    4300098: Line012
+    4300100: Line013
+    4300102: Line014
+    4300104: Line015
+    4300106: Line016
+    4300108: Line017
+    9500000: //RootNode
+    10800000: Omni001
+    10800002: Omni009
+    10800004: Omni010
+    10800006: Omni011
+    10800008: Omni012
+    10800010: Omni013
+    10800012: Omni014
+    10800014: Omni015
+    10800016: Omni016
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

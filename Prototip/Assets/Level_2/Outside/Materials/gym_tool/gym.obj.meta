@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 307a0a3e6a17bbd419f5bca96fe90f8a
+timeCreated: 1524406774
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: footbar
+    100002: //RootNode
+    100004: HighBar
+    100006: lowbar
+    100008: mainframe
+    100010: seatback
+    100012: seatpole
+    100014: weight1
+    100016: weight2
+    100018: weight3
+    100020: weight4
+    400000: footbar
+    400002: //RootNode
+    400004: HighBar
+    400006: lowbar
+    400008: mainframe
+    400010: seatback
+    400012: seatpole
+    400014: weight1
+    400016: weight2
+    400018: weight3
+    400020: weight4
+    2100000: footbarMat
+    2100002: HighBarMat
+    2100004: lowbarMat
+    2100006: mainframeMat
+    2100008: seatbackMat
+    2100010: seatpoleMat
+    2100012: weight1Mat
+    2100014: weight2Mat
+    2100016: weight3Mat
+    2100018: weight4Mat
+    2100020: BLACK_PLSTC_BMP
+    2100022: BLACK_PLSTC_REF
+    2100024: SILVER
+    2100026: WHITE_PLSTC
+    2100028: BLACK_PLSTC
+    2100030: RED_PLSTC_REF
+    2300000: footbar
+    2300002: HighBar
+    2300004: lowbar
+    2300006: mainframe
+    2300008: seatback
+    2300010: seatpole
+    2300012: weight1
+    2300014: weight2
+    2300016: weight3
+    2300018: weight4
+    3300000: footbar
+    3300002: HighBar
+    3300004: lowbar
+    3300006: mainframe
+    3300008: seatback
+    3300010: seatpole
+    3300012: weight1
+    3300014: weight2
+    3300016: weight3
+    3300018: weight4
+    4300000: footbar
+    4300002: HighBar
+    4300004: lowbar
+    4300006: mainframe
+    4300008: seatback
+    4300010: seatpole
+    4300012: weight1
+    4300014: weight2
+    4300016: weight3
+    4300018: weight4
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
